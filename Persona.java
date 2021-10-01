@@ -1,4 +1,4 @@
-public class Perosna{
+public class Persona{
 	private String nome;
 	private int eta;
 	//costruttore
